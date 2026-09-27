@@ -1,0 +1,6 @@
+[submodule "VoiceStudio"]
+	path = VoiceStudio
+	url = https://github.com/debpalash/VoiceStudio.git
+[submodule "kokoro"]
+	path = kokoro
+	url = https://github.com/hexgrad/kokoro.git
